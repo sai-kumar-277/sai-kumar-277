@@ -1,9 +1,8 @@
 # Hi, I'm Gottipilli Sai Kumar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=46&fontAlignY=38&fontWeight=800&fontColor=ffffff&fontFamily=Poppins&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=46&fontAlignY=38&fontWeight=800&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn" width="100%" />
 </p>
-
 <p align="center">
   <b>🚀 Software Engineer | Full-Stack & Applied AI | Drone Tech & Robotics</b>
 </p>
