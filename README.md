@@ -1,4 +1,4 @@
-# Hi, I'm Sai Kumar Gottipilli 👋
+# Hi, I'm Sai Kumar 👋
 
 <div align="center">
 
