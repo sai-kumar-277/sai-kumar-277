@@ -1,7 +1,11 @@
 # Hi, I'm Gottipilli Sai Kumar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=48&fontAlignY=38&fontWeight=800&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c23,100:2563eb&height=220&section=header&text=GOTTIPALLI%20SAI%20KUMAR&fontSize=42&fontAlignY=36&fontWeight=900&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <b>🚀 Software Engineer | Full-Stack & Applied AI | Drone Tech & Robotics</b>
 </p>
 ### 🚀 Full-Stack Developer | Applied AI Systems | Salesforce Intern
 
