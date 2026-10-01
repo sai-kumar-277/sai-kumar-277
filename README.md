@@ -91,11 +91,14 @@
 
 <h2 align="left">📊 GitHub Stats & Activity</h2>
 
+<h2 align="left">📊 GitHub Stats & Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sai-kumar-277&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sai-kumar-277&layout=compact&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=saikumar72727&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-kumar-277&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-277&layout=compact&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=sai-kumar-277&theme=dracula" height="150" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-kumar-277&theme=github_dark" />
 </p>
