@@ -1,14 +1,12 @@
-# Hi, I'm Gottipilli Sai Kumar 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=46&fontAlignY=38&fontWeight=800&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn" width="100%" />
 </p>
-<p align="center">
-  <b>🚀 Software Engineer | Full-Stack & Applied AI | Drone Tech & Robotics</b>
-</p>
-### 🚀 Full-Stack Developer | Applied AI Systems | Salesforce Intern
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/gottipilli-sai-kumar/))
+<div align="center">
+
+### 🚀 Software Engineer | Full-Stack & Applied AI | Drone Tech & Robotics
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gottipilli-sai-kumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar72727@gmail.com)
 [![Oracle Certified](https://img.shields.io/badge/Oracle-Java_SE_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://drive.google.com/file/d/165RtNzMVvN53g3iWt-G73UDYYB1c8G1j/view?usp=sharing)
 [![MongoDB Certified](https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://drive.google.com/file/d/1XjUk9xmDf5I4ayF40jAXqvCWd5hOgA5a/view?usp=sharing)
@@ -19,21 +17,14 @@
 
 ### 💫 About Me
 
-⚡ CS undergraduate passionate about engineering high-performance web systems, applied AI, and autonomous technology
-
-🛸 Tech enthusiast with a deep passion for Robotics, Drone Technology, and IoT systems
-
-🛠️ Hands-on experience building real-time engines, computer vision models (YOLOv8), and LLM pipelines[cite: 1]
-
-💼 Former Salesforce Intern skilled in process automation, RBAC security, and relational data architecture[cite: 1]
-
-🏆 1st Prize Winner at National Tech Expo for building an IoT Tamper-Detection & Prevention System[cite: 2]
-
-🎓 Oracle Java SE[cite: 2] & MongoDB Associate Certified[cite: 2]
-
-🎯 Actively seeking SDE / Systems Engineering opportunities at forward-thinking tech teams[cite: 1]
-
-⚡ Fun fact: I love bridging the gap between digital software and physical hardware hardware!
+⚡ CS undergraduate passionate about engineering high-performance web systems, applied AI, and autonomous technology  
+🛸 Tech enthusiast with a deep passion for Robotics, Drone Technology, and IoT systems  
+🛠️ Hands-on experience building real-time engines, computer vision models (YOLOv8), and LLM pipelines  
+💼 Former Salesforce Intern skilled in process automation, RBAC security, and relational data architecture  
+🏆 1st Prize Winner at National Tech Expo for building an IoT Tamper-Detection & Prevention System  
+🎓 Oracle Java SE & MongoDB Associate Certified  
+🎯 Actively seeking SDE / Systems Engineering opportunities at forward-thinking tech teams  
+⚡ Fun fact: I love bridging the gap between digital software and physical hardware!  
 
 ---
 
@@ -52,13 +43,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
-**Backend & Real-Time Engines:**
+**Backend Frameworks & Real-Time Engines:**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**AI, Machine Learning & Vision:**
+**AI, Machine Learning & Computer Vision:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -66,6 +57,11 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG & Local LLMs](https://img.shields.io/badge/RAG_%26_Local_LLMs-10B981?style=for-the-badge&logo=meta&logoColor=white)
+
+**Embedded, Hardware & Robotics:**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -87,14 +83,14 @@
 
 | Project | Description | Key Tech Stack |
 | :--- | :--- | :--- |
-| **PlayAuction** | Real-time multiplayer IPL auction engine with synchronized bidding, WebSockets & AI squad evaluation[cite: 1]. | React, Node.js, Socket.io, WebRTC, MongoDB[cite: 1] |
-| **Pattern Synth** | DIP application for seamless texture synthesis using FFT autocorrelation & lattice vector detection[cite: 1]. | FastAPI, NumPy, SciPy[cite: 1] |
-| **NutriTrack** | AI diet tracker featuring YOLOv8 food detection, speech logging, and local Qwen LLM RAG chatbot[cite: 1]. | Flask, SQLite, YOLOv8, Local LLM[cite: 1] |
+| **PlayAuction** | Real-time multiplayer IPL auction engine with synchronized bidding, WebSockets & AI squad evaluation. | React, Node.js, Socket.io, WebRTC, MongoDB |
+| **Pattern Synth** | DIP application for seamless texture synthesis using FFT autocorrelation & lattice vector detection. | FastAPI, NumPy, SciPy |
+| **NutriTrack** | AI diet tracker featuring YOLOv8 food detection, speech logging, and local Qwen LLM RAG chatbot. | Flask, SQLite, YOLOv8, Local LLM |
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-kumar-277&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-277&layout=compact&theme=tokyonight" width="48%" />
 </p>
