@@ -89,8 +89,26 @@
 
 ---
 
-### 📊 GitHub Activity
+<h2 align="left">📊 GitHub Stats & Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-kumar-277&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-277&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sai-kumar-277&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sai-kumar-277&layout=compact&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=sai-kumar-277&theme=dracula" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-kumar-277&theme=github_dark" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sai-kumar-277/sai-kumar277/output/github-contribution-grid-snake.svg" alt="Pacman contribution animation" />
+</div>
+
+---
+
+<h2 align="left">👀 Profile Visitors</h2>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saikumar72727.sai-kumar-277" />
+</div>
