@@ -1,9 +1,8 @@
 # Hi, I'm Gottipilli Sai Kumar 👋
 
-<div align="center">
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI&fontSize=38&animation=fadeIn)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=40&animation=fadeIn" width="100%" />
+</p>
 ### 🚀 Full-Stack Developer | Applied AI Systems | Salesforce Intern
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/gottipilli-sai-kumar/))
