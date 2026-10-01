@@ -1,7 +1,7 @@
 # Hi, I'm Gottipilli Sai Kumar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2563eb,100:06b6d4&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=50&fontAlignY=38&fontWeight=800&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=42&fontAlignY=38&fontWeight=800&fontColor=ffffff&fontFamily=Fira+Code&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
