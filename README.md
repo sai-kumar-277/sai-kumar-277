@@ -1,7 +1,7 @@
 # Hi, I'm Gottipilli Sai Kumar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00b4d8&height=220&section=header&text=Gottipilli%20Sai%20Kumar&fontSize=48&fontAlignY=38&fontWeight=800&animation=fadeIn" width="100%" />
 </p>
 ### 🚀 Full-Stack Developer | Applied AI Systems | Salesforce Intern
 
