@@ -104,7 +104,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sai-kumar-277/sai-kumar277/output/github-contribution-grid-snake.svg" alt="Pacman contribution animation" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-277/sai-kumar-277/output/github-contribution-grid-snake.svg" alt="Pacman contribution animation" />
 </div>
 
 ---
