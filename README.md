@@ -20,19 +20,12 @@
 ### 💫 About Me
 
 ⚡ CS undergraduate passionate about engineering high-performance web systems, applied AI, and autonomous technology
-
 🛸 Tech enthusiast with a deep passion for Robotics, Drone Technology, and IoT systems
-
 🛠️ Hands-on experience building real-time engines, computer vision models (YOLOv8), and LLM pipelines[cite: 1]
-
 💼 Former Salesforce Intern skilled in process automation, RBAC security, and relational data architecture[cite: 1]
-
 🏆 1st Prize Winner at National Tech Expo for building an IoT Tamper-Detection & Prevention System[cite: 2]
-
 🎓 Oracle Java SE[cite: 2] & MongoDB Associate Certified[cite: 2]
-
 🎯 Actively seeking SDE / Systems Engineering opportunities at forward-thinking tech teams[cite: 1]
-
 ⚡ Fun fact: I love bridging the gap between digital software and physical hardware hardware!
 
 ---
