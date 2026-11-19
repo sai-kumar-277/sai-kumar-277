@@ -91,8 +91,6 @@
 
 <h2 align="left">📊 GitHub Stats & Activity</h2>
 
-<h2 align="left">📊 GitHub Stats & Activity</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-kumar-277&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-277&layout=compact&theme=dracula" height="150" />
